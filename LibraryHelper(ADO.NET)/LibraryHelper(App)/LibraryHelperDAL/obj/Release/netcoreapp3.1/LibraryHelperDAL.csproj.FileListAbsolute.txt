@@ -1,0 +1,12 @@
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\bin\Release\netcoreapp3.1\LibraryHelperDAL.deps.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\bin\Release\netcoreapp3.1\LibraryHelperDAL.runtimeconfig.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\bin\Release\netcoreapp3.1\LibraryHelperDAL.runtimeconfig.dev.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\bin\Release\netcoreapp3.1\LibraryHelperDAL.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\bin\Release\netcoreapp3.1\LibraryHelperDAL.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.csproj.AssemblyReference.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.AssemblyInfoInputs.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.AssemblyInfo.cs
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\LibraryHelper\LibraryHelperDAL\obj\Release\netcoreapp3.1\LibraryHelperDAL.genruntimeconfig.cache
